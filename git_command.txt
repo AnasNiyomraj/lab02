@@ -1,0 +1,4 @@
+git remote add origin https://github.com/AnasNiyomraj/lab02.git
+git add -A
+git commit -m "มีข้อมูลใหม่"
+git reset --hard TKOKG#OTO#TSDMGOW#GOSOGOed
